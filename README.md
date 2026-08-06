@@ -31,7 +31,7 @@ This repository documents my work through Dr. Börge Göbel's
 
 ## Certification
 
-- ** Computational Physics: Scientific Programming with Python:** [View my Certificate of Completion](https://www.udemy.com/certificate/UC-c719534b-c035-434b-aec0-3e4c0600da3c/)
+- **Computational Physics: Scientific Programming with Python:** [View my Certificate of Completion](https://www.udemy.com/certificate/UC-c719534b-c035-434b-aec0-3e4c0600da3c/)
 
 ## Next Steps
 
