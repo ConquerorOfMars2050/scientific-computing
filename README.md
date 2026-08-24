@@ -35,8 +35,4 @@ This repository documents my work through Dr. Börge Göbel's
 
 ## Next Steps
 
-Moving into **Computational Fluid Dynamics**, working through 
-John D. Anderson Jr.'s *Computational Fluid Dynamics: The Basics with Applications* — 
-building compressible-flow solvers from scratch (shock tubes, nozzle flow, 
-supersonic flow over a flat plate) as preparation for research in 
-hypersonic aerothermodynamics.
+I am now focusing on space instrumentation, satellite systems, and scientific computing for aerospace applications. Current priorities include strengthening electronics and signal processing, applying machine learning to engineering data, and building research experience relevant to space systems and astronomical instrumentation.
